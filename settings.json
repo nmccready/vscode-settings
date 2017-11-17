@@ -1,0 +1,28 @@
+{
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.startupEditor": "newUntitledFile",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/tmp": true,
+        "**/dist": true
+    },
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    "emmet.syntaxProfiles": {
+        "handlebars": "html",
+        "html": {
+            "attr_quotes": "single"
+        }
+    },
+    "workbench.colorTheme": "Monokai",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#135564",
+        "editor.selectionHighlightBackground": "#135564",
+        "editorCursor.foreground": "#4dff00"
+    },
+    "editor.cursorStyle": "line"
+}
